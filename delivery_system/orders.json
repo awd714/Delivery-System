@@ -1,0 +1,29 @@
+{
+    "orders": [
+        {
+            "id": 1,
+            "customer_id": 1,
+            "order_date": "2026-11-26",
+            "status": "новый",
+            "total": 1600.0,
+            "items": [
+                {
+                    "product_name": "Пицца",
+                    "quantity": 2,
+                    "price": 750.0
+                },
+                {
+                    "product_name": "Чай",
+                    "quantity": 1,
+                    "price": 100.0
+                }
+            ],
+            "customer": {
+                "id": 1,
+                "name": "Иван Иванов",
+                "phone": "8901901901",
+                "address": "фффффффффф"
+            }
+        }
+    ]
+}
